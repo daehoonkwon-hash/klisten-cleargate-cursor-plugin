@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cleargate": {
+      "url": "https://api.klisten.co.kr/mcp/cleargate",
+      "headers": {
+        "Authorization": "Bearer ${KLISTEN_API_KEY}"
+      }
+    }
+  }
+}
